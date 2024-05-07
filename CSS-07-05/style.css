@@ -2,3 +2,34 @@
     color: #32a041;
     text-decoration: overline;
 }
+a{
+    font-weight: bold;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:rgb(99, 99, 99);
+}
+a:hover{
+    text-decoration: overline;
+    color: white;
+    background-color: #32a041;
+}
+a:active{
+    color: darkmagenta;
+    background-color: darkblue;
+}
+
+.cabecalho{
+    background-color: rgba(169, 169, 169, 0.6);
+}
+.intro{
+    background-color: #32a0415d;
+}
+.praia{
+    background-color: rgba(0, 200, 255, 0.377);
+}
+.rodape{
+    background-color: #385723;
+}
